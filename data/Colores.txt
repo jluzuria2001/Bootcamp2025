@@ -1,0 +1,9 @@
+Color	Value
+Rojo	1
+Naranja	2
+Amarillo	3
+Verde	4
+Azul	5
+Púrpura	6
+Negro	7
+Blanco	8
